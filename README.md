@@ -27,5 +27,5 @@ We are currently in the incubation phase and are looking for people and companie
 - Promote the project, educate people interested and qualified to participate, start  the discussion. (Q2 2019)
 - Discuss and make a decision on board membership regulations. (Q3 2019)
 - Discuss and make a decision on which hyperledger foundation project to use. (Q3 2019)
-- Register 501c or the correct non-profit org type, become 'official'. (Q4 2019)
+- Register 501c. (Q4 2019)
 - Start developing user applications based on smart contract data stores. (Q4 2019)
