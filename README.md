@@ -1,5 +1,5 @@
 # The Blocktwine Project
-
+![blocktwine](https://raw.githubusercontent.com/objectsyndicate/blocktwine/master/Diagram1.png)
 The blocktwine project aims to become a software foundation.
 The goals of that foundation will be to build and maintain a hyperledger based blockchain network.
 The purpose of that network will be to trade industrial hemp, its data and physical commodities, 
