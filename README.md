@@ -11,7 +11,7 @@ Some goals of the project include,
 - The foundation will be governed by a panel of industry leaders. 
 - Representatives will come from a pool of people representing their company.
 - The network will be a combined effort which may be capitalized upon in many ways.
-- By joining forces and building the network the industry will have a new arenel of tools at its disposal. These tools will decrease waste and increase revenue which is the motive to participate. 
+- By joining forces and building the network the industry will have a new arsenal of tools at its disposal. These tools will decrease waste and increase revenue which is the motive to participate. 
 
 Some proposed use cases, 
 
