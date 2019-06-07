@@ -2,12 +2,14 @@
 ![blocktwine](https://raw.githubusercontent.com/objectsyndicate/blocktwine/master/Diagram1.png)
 #
 The blocktwine project aims to become a software foundation.
-The goals of that foundation will be to build and maintain a hyperledger based blockchain network.
+The goals of that foundation will be to build and maintain a hyperledger based blockchain network, smart contract engine.
 The purpose of that network will be to trade industrial hemp, its data and physical commodities, 
 internationally and inter-organizationally.
 
 Some goals of the project include,
 
+- The network will be based on the hemp economy and not a digital currency. 
+- The network will be maintained and governed by the foundation, as opposed to currency miners. 
 - The foundation will be governed by a panel of industry leaders. 
 - Representatives will come from a pool of people representing their company.
 - The network will be a combined effort which may be capitalized upon in many ways.
