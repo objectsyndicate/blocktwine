@@ -3,8 +3,8 @@
 #
 The blocktwine project aims to become a software foundation.
 The goals of that foundation will be to build and maintain a hyperledger based smart contract engine.
-The purpose of that network will be to trade industrial hemp, its data and physical commodities, 
-internationally and inter-organizationally.
+The purpose of the smart contract network will be to trade industrial hemp, its data and physical commodities, 
+internationally and inter-organizationally. There are numerous advantages to the hemp industry for building a network such as this and participating in the foundation. 
 
 Some goals of the project include,
 
