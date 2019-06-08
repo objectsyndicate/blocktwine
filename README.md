@@ -25,8 +25,8 @@ We are currently in the incubation phase and are looking for people and companie
 
 # Roadmap
 - Promote the project, educate people interested and qualified to participate, start  the discussion. (Q2 2019)
-- Discuss and make a decision on board membership regulations. (Q3 2019)
-- Discuss and make a decision on which hyperledger foundation project to use. (Q3 2019)
+- Discuss and make a decision on board membership regulations. Apache foundation is a good model to emulate. (Q3 2019)
+- Discuss and make a decision on which hyperledger foundation project to use. Hyperledger Burrow is a strong prospect. (Q3 2019)
 - Register 501c. (Q4 2019)
 - Start developing user applications based on smart contract data stores. (Q4 2019)
 
