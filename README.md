@@ -31,6 +31,6 @@ We are currently in the incubation phase and are looking for people and companie
 - Start developing user applications based on smart contract data stores. (Q4 2019)
 
 # Reference material 
-[Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
-[Apache foundation governance](https://www.youtube.com/watch?v=TQwrH0PlpZg)
-[Hyperledger Burrow](https://www.hyperledger.org/projects/hyperledger-burrow)
+- [Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
+- [Apache foundation governance](https://www.youtube.com/watch?v=TQwrH0PlpZg)
+- [Hyperledger Burrow](https://www.hyperledger.org/projects/hyperledger-burrow)
