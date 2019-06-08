@@ -17,7 +17,7 @@ Some goals of the project include,
 
 Some proposed use cases, 
 
-- COA/Chain of custody, similar to this https://www.youtube.com/watch?v=8nrVlICgiYM Many state governments already have COA requirements, if those were optionally published on an immutable blockchain there could never be tampering.
+- COA/Chain of custody, Many state governments already have COA requirements, if those were optionally published on an immutable blockchain there could never be tampering.
 - Digital marketplace, cross all borders, no take down of content i.e 'Zucking'
 - IoT information, strains becomes intellectual property when the climate data is recorded. Generational research across organizations becomes possible. 
 
@@ -29,3 +29,8 @@ We are currently in the incubation phase and are looking for people and companie
 - Discuss and make a decision on which hyperledger foundation project to use. (Q3 2019)
 - Register 501c. (Q4 2019)
 - Start developing user applications based on smart contract data stores. (Q4 2019)
+
+# Reference material 
+[Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
+[Apache foundation governance](https://www.youtube.com/watch?v=TQwrH0PlpZg)
+[Hyperledger Burrow](https://www.hyperledger.org/projects/hyperledger-burrow)
