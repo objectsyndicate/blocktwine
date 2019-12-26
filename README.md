@@ -24,11 +24,8 @@ Some proposed use cases,
 We are currently in the incubation phase and are looking for people and companies who wish to participate. Further discussion will be available in the [keybase.io](https://keybase.io/) ‘blocktwine’ group. 
 
 # Roadmap
-- Promote the project, educate people interested and qualified to participate, start  the discussion. (Q2 2019)
-- Discuss and make a decision on board membership regulations. Apache foundation is a good model to emulate. (Q3 2019)
-- Discuss and make a decision on which hyperledger foundation project to use. Hyperledger Burrow is a strong prospect. (Q3 2019)
-- Register 501c. (Q4 2019)
-- Start developing user applications based on smart contract data stores. (Q4 2019)
+- Alpha chain is online! http://rpcweb.blocktwine.com/info 
+- Alpha chain will reamin online until a core group of members can assemble to discuss live deployment and distribution topology. 
 
 # Reference material 
 - [Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
