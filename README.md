@@ -24,8 +24,7 @@ Some proposed use cases,
 We are currently in the incubation phase and are looking for people and companies who wish to participate. Further discussion will be available in the [keybase.io](https://keybase.io/) ‘blocktwine’ group. 
 
 # Roadmap
-- Alpha chain is online! http://rpcweb.blocktwine.com/info 
-- Alpha chain will reamin online until a core group of members can assemble to discuss live deployment and distribution topology. 
+- Find a professional blockchain solution as the backbone and run with it. Looking at a few right now! (2020) 
 
 # Reference material 
 - [Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
