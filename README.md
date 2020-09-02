@@ -1,3 +1,5 @@
+[![Blocktwine Keynote](https://img.youtube.com/vi/MNcvihb1g14/0.jpg)](https://www.youtube.com/watch?v=MNcvihb1g14)
+
 # The Blocktwine Project
 ![blocktwine](https://raw.githubusercontent.com/objectsyndicate/blocktwine/master/Diagram1.png)
 #
