@@ -1,5 +1,3 @@
-[![Blocktwine Keynote](https://img.youtube.com/vi/MNcvihb1g14/0.jpg)](https://www.youtube.com/watch?v=MNcvihb1g14)
-
 # The Blocktwine Project
 ![blocktwine](https://raw.githubusercontent.com/objectsyndicate/blocktwine/master/Diagram1.png)
 #
@@ -7,6 +5,11 @@ The blocktwine project aims to become a software foundation.
 The goals of that foundation will be to build and maintain a hyperledger based smart contract engine.
 The purpose of the smart contract network will be to trade industrial hemp, its data and physical commodities, 
 internationally and inter-organizationally. There are numerous advantages to the hemp industry for building a network such as this and participating in the foundation as opposed to a centralized solution or a currency based engine.
+
+# Keynote Livesteam
+[![Blocktwine Keynote](https://img.youtube.com/vi/MNcvihb1g14/0.jpg)](https://www.youtube.com/watch?v=MNcvihb1g14)
+
+(I was wrong about some minor things, but generally this is the pitch)
 
 Some goals of the project include,
 
@@ -26,7 +29,9 @@ Some proposed use cases,
 We are currently in the incubation phase and are looking for people and companies who wish to participate. Further discussion will be available in the [keybase.io](https://keybase.io/) ‘blocktwine’ group. 
 
 # Roadmap
-- Find a professional blockchain solution as the backbone and run with it. Looking at a few right now! (2020) 
+- Build it!
+
+![Follow this documentation to get VS Code set up using IBM's Blockchain2 platform.](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
 # Reference material 
 - [Hyperledger COA use case for seafish]( https://www.youtube.com/watch?v=8nrVlICgiYM)
