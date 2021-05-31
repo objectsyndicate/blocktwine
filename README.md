@@ -1,3 +1,5 @@
+# We are now live! on the Ravencoin network. If you have COAs to publish contact me!
+
 # The Blocktwine Project
 ![blocktwine](https://raw.githubusercontent.com/objectsyndicate/blocktwine/master/Diagram1.png)
 #
